@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reconcept-spisanie.ru/sitemap.xml
